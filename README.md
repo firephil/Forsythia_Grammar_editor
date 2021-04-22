@@ -9,7 +9,7 @@ Will try to correct this issue soon, until then use the patched jar if you want 
 
 [forsythia_grammar_generator.jar](https://github.com/firephil/Forsythia_Grammar_editor/blob/master/binary/forsythia_grammar_generator.jar)
 and text color files :
-[colors.txt](https://github.com/firephil/Forsythia_Grammar_editor/blob/master/binary/colors.txt)
+[colors.txt](https://github.com/firephil/Forsythia_Grammar_editor/blob/master/binary/colors.txt) ,
 [colors.hex](https://github.com/firephil/Forsythia_Grammar_editor/blob/master/binary/colors.hex)
 
 [how to make a simple grammar](https://github.com/johnalexandergreene/Forsythia/raw/master/app/grammarEditor/bin/grammareditorwalkthrough_2017_05_12_how_to_make_a_simple_grammar.ogv)
