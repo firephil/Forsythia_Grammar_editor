@@ -6,6 +6,7 @@ Source code is not functional yet because the grammars on the sample directory a
 ones from the sources.
 
 Will try to correct this issue soon, until then use the patched jar if you want to use custom colors.
+[forsythia_grammar_generator.jar](https://github.com/firephil/Forsythia_Grammar_editor/blob/master/binary/forsythia_grammar_generator.jar)
 
 [how to make a simple grammar](https://github.com/johnalexandergreene/Forsythia/raw/master/app/grammarEditor/bin/grammareditorwalkthrough_2017_05_12_how_to_make_a_simple_grammar.ogv)
 
